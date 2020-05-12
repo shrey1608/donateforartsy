@@ -1,0 +1,1 @@
+web: gunicorn donateforartsy.wsgi --log-file -
